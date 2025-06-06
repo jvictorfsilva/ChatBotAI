@@ -1,0 +1,8 @@
+transformers[torch]
+torch
+datasets
+fastapi
+uvicorn[standard]
+scikit-learn
+python-json-logger
+python-dotenv

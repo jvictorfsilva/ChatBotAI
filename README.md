@@ -1,2 +1,3 @@
 # ChatBotAI
 
+venv\Scripts\activate
